@@ -1,2 +1,4 @@
 Name: Tomasz Lipowski
 Univeristy: PJATK
+hello from staging area
+Student id: s38764
